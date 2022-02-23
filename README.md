@@ -1,4 +1,4 @@
 # git-example
 
-dasdasdasdasdasda
+goodbye
 asdasdasd
