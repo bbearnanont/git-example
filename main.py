@@ -1,7 +1,7 @@
 def foo():
     return "bar"
 
-def bar():
+def kk():
     return "foo"
 
 print(foo())
